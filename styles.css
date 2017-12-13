@@ -1,0 +1,103 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+p {
+  color:#2f91ae;
+  font-size: 100%;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+a {
+  color:#9e27c7;
+  font-size: 100%;
+  font-family: Impact, Charcoal, sans-serif;;
+  
+}
+
+nav ul {
+  background-color: #e10000;
+  border-style:solid;
+  border-color: Violet;
+  border-width:2px;
+  padding: 10px;
+  border-radius:30px;
+}
+nav ul li {
+  list-style-type:none;
+  display: inline;
+  margin-right:10px;
+  margin-left:10px;
+  color: Black;
+  font-family:Impact, Charcoal, sans-serif;
+}
+nav ul li a {
+  text-decoration:none;
+  color: PapayaWhip;
+}
+h2 {
+  background: purple;
+  color: CYAN;
+  font-size: 300%;
+  font-family: Impact, Charcoal, sans-serif;
+}
+s {
+  background: #5AFF38;
+  color: #fa3b8d;
+  font-size: 240%;
+}
+#S1
+{
+  background: #ED2247;
+  color: Blue;
+  font-size: 190%;
+  font-family: "Courier New", Courier, monospace;
+}
+
+p1 {
+  background: HotPink;
+  color: ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: PaleTurquoise;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: purple;
+}
+td {
+  color: purple;
+}
+/********************************/
